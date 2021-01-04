@@ -1,0 +1,5 @@
+hotbar : pictures/hotbar.png
+hotbar2 : pictures/hotbar2.png 
+slot : pictures/slot.png
+empty : pictures/empty.png
+item : pictures/item.png

@@ -12,7 +12,7 @@ public class Program {
 		Game.init(args);
 
 		try {
-			Images.loadImages(new File("directions.txt"));
+			Images.loadImages(new File("ImageMap.txt"));
 		} catch (final IOException e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
