@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<litidata version="1.0">
+ <maps>
+  <map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="16" height="16" tilewidth="16" tileheight="16" infinite="1" nextlayerid="2" nextobjectid="1" name="MapTry2">
+   <tileset firstgid="1" name="TilesetTry1" tilewidth="16" tileheight="16" tilecount="60" columns="10">
+    <image source="TilesetTry1.png" width="160" height="102"/>
+   </tileset>
+   <layer id="1" name="Kachelebene 1" width="5" height="5">
+    <data encoding="csv">
+        
+     <chunk x="0" y="0" width="16" height="16">
+1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+</chunk>
+       
+    </data>
+   </layer>
+   <objectgroup id="0" name="default" visible="1">
+    <object id="1" name="enter" type="SPAWNPOINT" x="112" y="112" width="16" height="16"/>
+   </objectgroup>
+  </map>
+ </maps>
+ <spriteSheets>
+  <sprite width="16" height="32" imageformat="PNG" name="Joe-idle">
+   <image>iVBORw0KGgoAAAANSUhEUgAAABAAAAAgCAYAAAAbifjMAAAAuklEQVR4Xu2SsQ3CQBAErwgSSnBCAYTkhO6FDiiPEijFYIm37ob9+7ewM1Zayd67nX9LNttL99t1orkjxdLjOayDsFzchPBkD2AuQRy2LMvn02EaL8fU804oe3nA+1U+dwNq3h/Az5jtyynAL7nlUP6Av8Vr1uxuVwdkEAlguQbw8yaAIOYBwsHmAGarAOb+A/oP+BGwlHsACtINKBCRRXGhZfYXgInTaHap7LuLUwWAyl0mtR2AAxPZC9ssSF5mucl6AAAAAElFTkSuQmCC</image>
+  </sprite>
+  <sprite width="16" height="16" imageformat="PNG" name="TilesetTry1">
+   <image>iVBORw0KGgoAAAANSUhEUgAAAKAAAABmCAYAAABMfpqEAAACtklEQVR4Xu3YMY7TQACF4dwBCQlxGhqOQEVJjai4AKLfGy/ySrOaPMZJgOJh6ys+rTKesdfKr0mcy4dP756H71/ePv/4+ub557e17dg2Z8z/+Pn9i/kceWy2Gs/5+TrlNZ6enjiwy/xmb3FldGmbMyLMYDKcPJbzMrb59bjOLOdt8oY4lssczF6AuSuuYpjDWo2n+bp7wW3Xnc0hCvAcdgPM6DLAR2Rkea3ZuOZs9X/MAW5/84Y4lpsfwfnmr2Q0uVvtmSO7J+dt6wV4DjcD/FsZ47ybpdXa1XnmY2MXFODx/RbgKsJVKPdkSKvjq/EVAZ7X63fAEeIqwFsxPOJP5t5aI8Dzed0B5wDv7V63PDo/5+XrNO+YI0BPwce3DDAjzBBybHV8NW81tnJv3ngIEeDxvXwE5+9y+aQ67z57VvMeWZNjKeeM/81T8Dlc/Q6YMY43+18eTlY74irWXLM3Z/7+J8Dju3oKHh9ruSOuYkyrgDKsEdAtOT/X5P+VN8SxvAS4Cm6OMsdSRnTLrfPm3NW6sdZ3wHO4+gjei3Een9/81dxcl2Orc+7Nn1/vXTNviGO5+h1wFVmGkHP3xnJ9njPHc83q9UreEMdyyYH/zYgwxzmH/z5Azk2AVAmQKgFSJUCqBEiVAKkSIFUCpEqAVAmQKgFSJUCqBEiVAKkSIFUCpEqAVAmQKgFSJUCqBEiVAKkSIFUCpEqAVAmQKgFSJUCqBEiVAKkSIFUCpEqAVAmQKgFSJUCqBEiVAKkSIFUCpEqAVAmQKgFSJUCqBEiVAKkSIFUCpEqAVAmQKgFSJUCqBEiVAKkSIFUCpEqAVAmQKgFSJUCqBEiVAKkSIFUCpEqAVAmQKgFSJUCqBEiVAKkSIFUCpEqAVAmQKgFSJUCqBEiVAKkSIFUCpEqAVAmQKgFSJUCqfgGvj7vHCz6tZgAAAABJRU5ErkJggg==</image>
+  </sprite>
+ </spriteSheets>
+ <tilesets/>
+ <emitters/>
+ <blueprints/>
+ <sounds/>
+</litidata>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
