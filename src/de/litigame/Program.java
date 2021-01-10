@@ -13,5 +13,6 @@ public class Program {
 		Game.screens().add(new IngameScreen());
 		GameManager.init();
 		Game.start();
+		// gay
 	}
 }
